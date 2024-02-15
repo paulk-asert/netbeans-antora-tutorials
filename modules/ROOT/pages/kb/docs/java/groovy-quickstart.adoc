@@ -30,7 +30,7 @@
 :keywords: Apache NetBeans, Tutorials, Introduction to Groovy
 :page-reviewed: 2019-01-26
 
-This document gets you started with link:http://groovy.codehaus.org/[+Groovy+] in NetBeans IDE. You will create a Java application, add a JFrame, and retrieve a simple message from a Groovy file.
+This document gets you started with link:https://groovy.apache.org/[+Groovy+] in NetBeans IDE. You will create a Java application, add a JFrame, and retrieve a simple message from a Groovy file.
 
 == Creating the Application
 
